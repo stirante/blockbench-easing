@@ -8,5 +8,5 @@ All easing functions are from [easings.net](https://easings.net/) licensed under
 
 * Select `File > Plugins...`
 * Click `Load Plugin from URL` on the top
-* Paste `https://raw.githubusercontent.com/stirante/blockbench-easing/master/easing.js` into input box
+* Paste `https://stirante.github.io/blockbench-easing/easing.js` into input box
 * Click `Confirm`
