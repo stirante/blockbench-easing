@@ -163,7 +163,7 @@
       })
       easingMenu = new Action('easing', {
         name: 'Animation easing',
-        icon: 'storefront',
+        icon: 'animation',
         category: 'animation',
         condition: {modes: ['animate']},
         children: easings,
