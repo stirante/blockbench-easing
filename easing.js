@@ -166,7 +166,10 @@
         icon: 'storefront',
         category: 'animation',
         condition: {modes: ['animate']},
-        children: easings
+        children: easings,
+        click: event => {
+          new Menu(easings).open(event);
+        }
       })
       MenuBar.addAction(easingMenu, 'animation')
     },
