@@ -5,6 +5,6 @@
   "types": "types/index.d.ts",
   "license": "GPLV3",
   "devDependencies": {
-    "blockbench-types": "^3.8.0"
+    "blockbench-types": "^4.0.0"
   }
 }
